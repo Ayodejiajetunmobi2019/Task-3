@@ -1,0 +1,14 @@
+body{
+    background-color:lightgrey;
+} 
+.headerx{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+    font-family: sans-serif;
+}
+
+h3 {
+    color: navy;
+    margin-left: 20px;
+}
